@@ -79,9 +79,9 @@
             this.label3.BackColor = System.Drawing.SystemColors.Control;
             this.label3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label3.Location = new System.Drawing.Point(199, 493);
+            this.label3.Location = new System.Drawing.Point(199, 482);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(789, 68);
+            this.label3.Size = new System.Drawing.Size(789, 65);
             this.label3.TabIndex = 9;
             this.label3.Text = "Nieuwe Pokemon registreren";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -93,7 +93,7 @@
             this.label4.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label4.Location = new System.Drawing.Point(199, 610);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(789, 88);
+            this.label4.Size = new System.Drawing.Size(789, 65);
             this.label4.TabIndex = 10;
             this.label4.Text = "Pokemon verwijderen";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;

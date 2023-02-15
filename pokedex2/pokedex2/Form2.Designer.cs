@@ -97,7 +97,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(678, 185);
             this.textBox1.TabIndex = 4;
-            this.textBox1.Text = "Type:\r\nLengte:\r\nGewicht:\r\nCategorie:";
+            this.textBox1.Text = "Type: Electric\r\nLengte: 0,4M\r\nGewicht: 6,0KG\r\nCategorie: Mouse";
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
@@ -110,7 +110,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(678, 190);
             this.textBox2.TabIndex = 5;
-            this.textBox2.Text = "Type:\r\nLengte:\r\nGewicht:\r\nCategorie:";
+            this.textBox2.Text = "Type: Normal\r\nLengte: 2,1M\r\nGewicht: 460,0KG\r\nCategorie: Sleeping";
             this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox3
@@ -123,7 +123,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(678, 184);
             this.textBox3.TabIndex = 6;
-            this.textBox3.Text = "Type:\r\nLengte:\r\nGewicht:\r\nCategorie:";
+            this.textBox3.Text = "Type: Grass/Poison\r\nLengte: 0,7M\r\nGewicht: 6,9KG\r\nCategorie: Seed";
             // 
             // textBox4
             // 
@@ -135,7 +135,7 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(678, 187);
             this.textBox4.TabIndex = 7;
-            this.textBox4.Text = "Type:\r\nLengte:\r\nGewicht:\r\nCategorie:";
+            this.textBox4.Text = "Type: Water\r\nLengte: 0,5M\r\nGewicht: 9,0KG\r\nCategorie: Tiny Turtle";
             this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // Form2
