@@ -16,3 +16,4 @@ C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\n
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.pdb
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.genruntimeconfig.cache
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\ref\pokedex2.dll
+C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.Form2.resources
