@@ -63,6 +63,7 @@
             // label2
             // 
             this.label2.BackColor = System.Drawing.SystemColors.Control;
+            this.label2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(199, 352);
             this.label2.Name = "label2";
@@ -76,6 +77,7 @@
             // label3
             // 
             this.label3.BackColor = System.Drawing.SystemColors.Control;
+            this.label3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label3.Location = new System.Drawing.Point(199, 493);
             this.label3.Name = "label3";
@@ -87,6 +89,7 @@
             // label4
             // 
             this.label4.BackColor = System.Drawing.SystemColors.Control;
+            this.label4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label4.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label4.Location = new System.Drawing.Point(199, 610);
             this.label4.Name = "label4";
@@ -98,6 +101,7 @@
             // label5
             // 
             this.label5.BackColor = System.Drawing.Color.Red;
+            this.label5.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label5.Location = new System.Drawing.Point(867, 31);
             this.label5.Name = "label5";
@@ -120,7 +124,7 @@
             this.Controls.Add(this.pictureBox2);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Menu";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
