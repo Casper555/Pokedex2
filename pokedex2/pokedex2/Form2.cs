@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace pokedex2
 {
-    public partial class Form2 : Form
+    public partial class overzichtFrm : Form
     {
-        public Form2()
+        public overzichtFrm()
         {
             InitializeComponent();
         }
@@ -40,6 +40,11 @@ namespace pokedex2
         private void textBox4_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

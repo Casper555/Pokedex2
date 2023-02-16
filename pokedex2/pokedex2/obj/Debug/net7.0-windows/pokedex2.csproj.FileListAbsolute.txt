@@ -4,7 +4,6 @@ C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\bin\Debug\n
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\bin\Debug\net7.0-windows\pokedex2.dll
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\bin\Debug\net7.0-windows\pokedex2.pdb
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.csproj.AssemblyReference.cache
-C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.Form1.resources
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.Properties.Resources.resources
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.csproj.GenerateResource.cache
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,4 +15,7 @@ C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\n
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.pdb
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.genruntimeconfig.cache
 C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\ref\pokedex2.dll
-C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.Form2.resources
+C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.menuFrm.resources
+C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.overzichtFrm.resources
+C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.toevoegenFrm.resources
+C:\Users\caspe\OneDrive\Documenten\GitHub\Pokedex2\pokedex2\pokedex2\obj\Debug\net7.0-windows\pokedex2.verwijderenFrm.resources

@@ -1,8 +1,8 @@
 namespace pokedex2
 {
-    public partial class Form1 : Form
+    public partial class menuFrm : Form
     {
-        public Form1()
+        public menuFrm()
         {
             InitializeComponent();
         }
@@ -49,12 +49,28 @@ namespace pokedex2
 
         private void label2_MouseClick(object sender, MouseEventArgs e)
         {
-            new Form2().Show();
+            new overzichtFrm().Show();
         }
 
         private void label2_CursorChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            new toevoegenFrm().Show();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+            new verwijderenFrm().Show();
+            //this.Close();
         }
     }
 }

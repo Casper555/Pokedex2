@@ -10,26 +10,11 @@ using System.Windows.Forms;
 
 namespace pokedex2
 {
-    public partial class toevoegenFrm : Form
+    public partial class verwijderenFrm : Form
     {
-        public toevoegenFrm()
+        public verwijderenFrm()
         {
             InitializeComponent();
-        }
-
-        private void Form3_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
@@ -37,9 +22,14 @@ namespace pokedex2
 
         }
 
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void pictureBox5_Click(object sender, EventArgs e)
         {
-            this.Close();  
+            this.Close();
         }
     }
 }
